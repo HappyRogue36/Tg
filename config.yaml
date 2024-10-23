@@ -1,0 +1,12 @@
+api_id: "ваш_api_id"  # Telegram API ID
+api_hash: "ваш_api_hash"  # Telegram API Hash
+phone_number: "ваш_номер_телефона" # Telegram Номер телефона
+bot_token: "токен_вашего_бота"  # Токен бота, для отправки алертов
+alert_channel: "чат_или_канал_id"  # ID канала для отправки алертов
+scan_interval: 10  # Интервал сканирования в минутах
+chat_ids:
+  - "чат_или_группы_id_1"
+  - "чат_или_группы_id_2"
+keywords:
+  - "ключевое_слово1"
+  - "ключевое_слово2"
